@@ -21,7 +21,7 @@ return q;
 
 
 }
-main(){int mm[12];
+int main(){int mm[12];
 int n(6);
 while(n)
 {
